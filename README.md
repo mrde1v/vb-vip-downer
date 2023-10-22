@@ -1,4 +1,4 @@
-### VB.eu Store Killer
+### VB.eu VIP Killer
 
 - This software was made for educational usage only!
 
