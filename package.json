@@ -1,0 +1,17 @@
+{
+  "name": "vb-vip-downer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "de1v",
+  "license": "ISC",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "randomstring": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}
